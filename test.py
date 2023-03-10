@@ -1,2 +1,2 @@
-# Hello World
-print('Hello World')
+fruits = ['apple', 'banana', 'peach']
+print('apple' in fruits)
